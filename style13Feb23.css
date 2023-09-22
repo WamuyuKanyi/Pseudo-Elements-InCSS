@@ -24,5 +24,29 @@ p::after{
   width: 50px;
   height: 50px;
   background: green;
-
 }
+/* div{
+  width: 60vw;
+  margin: 100px auto;
+  border: 2px solid red;
+}
+/* THE FOLLOWING CODE DOES NOT WORK I WILL HAVE TO GET BACK AT IT. */
+
+
+/* img {
+  width: 100%;
+  display: block;
+  /* display: block removes the margin at the bottom of the image so that that the image can full inside the border */
+}
+/* img::before{
+  content: "hello";
+  NB: YOU WILL NOT BE ABLE TO ADD YOUR BEFORE AND AFTER TO YOUR IMAGE BECAUSE THE IMAGE IS THE CONTENT  */
+
+/* div::before{
+  content: "";
+  border: 2px solid grey;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+} */ */ */
+
